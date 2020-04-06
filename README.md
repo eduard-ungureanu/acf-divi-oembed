@@ -10,4 +10,4 @@ https://prnt.sc/rtwdvn
 
 3. In a Divi Code Module add the shortcode: `[dt-acf-video acf_id='my-video']`
 
-4. replace the `acf_id` value with your own ACF Field's Name, in this example my ACF oEmbed Field's Name is *my-video*
+4. Replace the `acf_id` value with your own ACF Field's Name, in this example my ACF oEmbed Field's Name is *my-video*
